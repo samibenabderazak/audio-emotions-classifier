@@ -14,7 +14,7 @@ in 1D CNN we got an accuracy for gender classification of about 81%.
 For emotions classification 54% accuracy.
 For combined emotions and gender classification: 48%.
 
-As the accuracy percentage was low in 1D CNN, we made it into 2D CNN and in the end we managed to get an accuracy of 66% for combined genders and emotions classification.
+As the accuracy percentage was low in 1D CNN, I made it into 2D CNN and in the end managed to get an accuracy of 66% for combined genders and emotions classification.
 
 #### Classes used in this model training:  
 Gender classes:  
@@ -41,5 +41,5 @@ male_angry, male_fear, male_happ, male_sad, male_surprise, male_neutral, male_di
 Final result, 2D CNN combined genders and emotions classification:
 ![image](https://user-images.githubusercontent.com/23135398/139415112-a076a7b9-1ed4-4cd6-bc10-7dc86c97fb93.png)
 
-this project was done using the work done in the kaggle notebook:
+Sources for this project:
 https://www.kaggle.com/ejlok1/audio-emotion-part-1-explore-data
